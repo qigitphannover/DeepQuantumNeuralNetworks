@@ -1,0 +1,12 @@
+You will need the MATLAB Toolbox QETLAB ( see http://www.qetlab.com/Main_Page). The program uses its implementation of the PartialTrace and the Swap Operation.
+
+The program can implement general Network configurations. These configurations are stored in the M array. 
+A Network with two layers with two Neurons each is given by M = [2,2]. 
+A Network with three layers with two Neurons in the input and output layer and three Neurons in the hidden layer is given by M =[2,3,2].
+
+First Initilize the Network by generating an array with random unitaries for a given network M with "QuickInitilizer.m".
+The unitaries are stored in the cell array U. U{k}(:,:,j) is then the corresponding unitary of the jth neuron in the kth layer.
+
+Then Train the Network with "TrainNetwork.m". 
+
+You will need an array of training input and output states phi_in and phi_out, where phi_in(:,j) is the jth input vector of your training sample.
