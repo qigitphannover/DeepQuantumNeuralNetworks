@@ -1,4 +1,4 @@
-# DeepQuantumNeuralNetworks
+# Dissipative Quantum Neural Networks
 This code can be used to classically simulate deep quantum neural networks. The basic idea is presented in the Jupyter notebook __DQNN_basic.ipynb__. Further code can be found in the folder __DQNN__.  The DQNNs are proposed in 
 * K. Beer, D. Bondarenko, T. Farrelly, T. J. Osborne, R. Salzmann, and R. Wolf. Training deep quantum neural networks. Nat Commun 11, 808 (2020). https://doi.org/10.1038/s41467-020-14454-2
 
