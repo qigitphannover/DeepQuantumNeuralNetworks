@@ -10,7 +10,7 @@ In __GraphQNN__ the code of the following project is included
 * Beer, K., Khosla, M., Köhler, J., & Osborne, T. J. (2021). Quantum machine learning of graph-structured data. https://arxiv.org/abs/2103.10837
 
 Found code in __DQNN_on_NISQ__ belongs to 
-* Beer, K., List, D., Müller, G., Osborne, T. J., & Struckmann, C. (2021). Training Quantum Neural Networks on NISQ Devices. Beer, K., List, D., Müller, G., Osborne, T. J., & Struckmann, C. (2021). Training Quantum Neural Networks on NISQ Devices. arXiv preprint arXiv:2104.06081.
+* Beer, K., List, D., Müller, G., Osborne, T. J., & Struckmann, C. (2021). Training Quantum Neural Networks on NISQ Devices. Beer, K., List, D., Müller, G., Osborne, T. J., & Struckmann, C. (2021). Training Quantum Neural Networks on NISQ Devices. https://arxiv.org/abs/2104.06081
 
 Moreover the folder __DQGAN__ presents code and resuls from
 * Beer, K., & Müller, G. (2021). Dissipative quantum generative adversarial networks. https://arxiv.org/abs/2112.06088
